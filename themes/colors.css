@@ -1,32 +1,12 @@
 :root {
-	--accen-01: #72e8fc;
-	--accen-01: #58d1e5;
-	--accen-03: #30b1c4;
+	--accen-01: #49e4fc;
+	--accen-01: #0ec7de;
+	--accen-03: #11a1b4;
 
 	--acchi-01: #58d1e510;
 	--acchi-02: #58d1e530;
 	--acchi-03: #58d1e550;
 	--acchi-04: #58d1e570;
-
-	--brigh-01: #fba0ad;
-	--brigh-02: #f7a97c;
-	--brigh-03: #e0c16d;
-	--brigh-04: #a6cc80;
-	--brigh-05: #6cd5b3;
-	--brigh-06: #58d1e5;
-	--brigh-07: #89c3ff;
-	--brigh-08: #bcb2ff;
-	--brigh-09: #e6a4e0;
-
-	--mediu-01: #e5939f;
-	--mediu-02: #e19b74;
-	--mediu-03: #cdb266;
-	--mediu-04: #99bb77;
-	--mediu-05: #66c3a4;
-	--mediu-06: #55bfd1;
-	--mediu-07: #7cb3eb;
-	--mediu-08: #ada3e9;
-	--mediu-09: #d297cc;
 
 	--brigh-01: #fd99a9;
 	--brigh-02: #fca676;
@@ -43,12 +23,12 @@
 	--color-03: #deba50;
 	--color-04: #92be62;
 	--color-05: #3fc8a1;
-	--color-06: #30c2d8;
+	--color-06: #0ec7de;
 	--color-07: #6ab3fd;
 	--color-08: #ad9ffa;
 	--color-09: #dc8fd5;
 
-	--darkd-06: #356d76;
+	--darkd-06: #176f7c;
 	--darkd-07: #43668a;
 
 	--neutr-16: #a0b1d6;
