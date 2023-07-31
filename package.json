@@ -1,0 +1,21 @@
+{
+  "name": "midnight",
+  "displayName": "midnight",
+  "description": "darkness",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-color-theme.json"
+      }
+    ]
+  }
+}

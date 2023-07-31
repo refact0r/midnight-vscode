@@ -1,0 +1,72 @@
+:root {
+	--accen-01: #72e8fc;
+	--accen-01: #58d1e5;
+	--accen-03: #30b1c4;
+
+	--acchi-01: #58d1e510;
+	--acchi-02: #58d1e530;
+	--acchi-03: #58d1e550;
+	--acchi-04: #58d1e570;
+
+	--brigh-01: #fba0ad;
+	--brigh-02: #f7a97c;
+	--brigh-03: #e0c16d;
+	--brigh-04: #a6cc80;
+	--brigh-05: #6cd5b3;
+	--brigh-06: #58d1e5;
+	--brigh-07: #89c3ff;
+	--brigh-08: #bcb2ff;
+	--brigh-09: #e6a4e0;
+
+	--mediu-01: #e5939f;
+	--mediu-02: #e19b74;
+	--mediu-03: #cdb266;
+	--mediu-04: #99bb77;
+	--mediu-05: #66c3a4;
+	--mediu-06: #55bfd1;
+	--mediu-07: #7cb3eb;
+	--mediu-08: #ada3e9;
+	--mediu-09: #d297cc;
+
+	--color-01: #f3899b;
+	--color-02: #ef945f;
+	--color-03: #d2b152;
+	--color-04: #92be62;
+	--color-05: #3fc8a1;
+	--color-06: #30c2d8;
+	--color-07: #6ab3fd;
+	--color-08: #ad9ffa;
+	--color-09: #dc8fd5;
+
+	--brigh-01: #ff9dac;
+	--brigh-02: #fca676;
+	--brigh-03: #dcba5c;
+
+	--darkd-06: #356d76;
+	--darkd-07: #43668a;
+
+	--neutr-16: #a0b1d6;
+	--neutr-15: #95a5c9;
+	--neutr-14: #8a9abd;
+	--neutr-13: #808fb0;
+	--neutr-12: #7584a4;
+	--neutr-11: #6b7998;
+	--neutr-10: #616e8c;
+	--neutr-09: #576380;
+	--neutr-08: #4e5973;
+	--neutr-07: #454f66;
+	--neutr-06: #3c4559;
+	--neutr-05: #343c4d;
+	--neutr-04: #2c3240;
+	--neutr-03: #242934;
+	--neutr-02: #1c2029;
+	--neutr-01: #15181e;
+	--neutr-00: #121318;
+
+	--hover-01: #7584a414;
+	--hover-02: #7384ac28;
+	--hover-03: #7181a640;
+	--hover-04: #7082a656;
+
+	--shado-01: #0005;
+}
