@@ -31,6 +31,8 @@
 	--darkd-06: #176f7c;
 	--darkd-07: #43668a;
 
+	--white-01: #d4d4d4;
+
 	--neutr-16: #a0b1d6;
 	--neutr-15: #95a5c9;
 	--neutr-14: #8a9abd;
@@ -48,6 +50,27 @@
 	--neutr-02: #1c2029;
 	--neutr-01: #15181e;
 	--neutr-00: #121318;
+
+	--neutr-20: #cde9ff;
+	--neutr-19: #c2dcff;
+	--neutr-18: #b6d0ff;
+	--neutr-17: #abc4f5;
+	--neutr-16: #a0b8e6;
+	--neutr-15: #95acd8;
+	--neutr-14: #8ba0ca;
+	--neutr-13: #8094bc;
+	--neutr-12: #7589ae;
+	--neutr-11: #6b7da1;
+	--neutr-10: #617293;
+	--neutr-09: #566786;
+	--neutr-08: #4c5c79;
+	--neutr-07: #43526c;
+	--neutr-06: #3b475e;
+	--neutr-05: #333d51;
+	--neutr-04: #2b3343;
+	--neutr-03: #242a36;
+	--neutr-02: #1c212a;
+	--neutr-01: #15181e;
 
 	--hover-01: #7584a414;
 	--hover-02: #7384ac28;
